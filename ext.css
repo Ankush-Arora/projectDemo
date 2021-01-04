@@ -1,0 +1,30 @@
+.abc{
+	background-color:black;
+	font-size:150px;
+}
+b{
+	color: white;
+}
+p{
+	color:black;
+}
+.container{
+	margin: auto;
+ background-color:#FBF5F4;
+	 text-align:center;
+	height:100%;
+	width:30%;
+	}
+	
+	input,textarea{
+		padding: 7px;
+	}
+	 .btn{
+		 cursor:pointer ;
+		 border-radius:14px;
+		 padding:7px;
+		 background-color:#6B1967;
+		 color:white;
+	 }
+	 
+ 
